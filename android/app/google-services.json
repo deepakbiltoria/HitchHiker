@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942004414950",
+    "project_id": "shotgun-5e05f",
+    "storage_bucket": "shotgun-5e05f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942004414950:android:128be503fa648065444e27",
+        "android_client_info": {
+          "package_name": "com.debilto.shotgun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942004414950-cfn6orhmej8048s586gh4m2d6bs8m3rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgKVlnkdJ_z8olT38w4XO8BJmiSJZfjYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942004414950-cfn6orhmej8048s586gh4m2d6bs8m3rf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
